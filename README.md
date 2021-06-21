@@ -19,6 +19,6 @@ testando as funcionalidades da API e identificando possíveis problemas na inter
 - [x] Testes de Performance\
 Foi criado teste para validar o tempo de resposta e se estaria "de pé".
 - [x] Testes de Segurança\
-Foram feitos testes básicos de segurança no processo de Criação, Login e Registro do user, para avalidar se seria possível realizar login ou registro sem os parâmetros necessários.
+Foram feitos testes básicos de segurança no processo de Criação, Login e Registro do user, para avaliar se seria possível realizar login ou registro sem os parâmetros necessários.
 
 
