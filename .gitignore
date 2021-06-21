@@ -1,2 +1,4 @@
 #Configuração do Intellij Idea
 /.idea
+#Configuração do Maven
+*/target/*
